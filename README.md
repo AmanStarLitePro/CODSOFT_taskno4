@@ -8,9 +8,13 @@ This Project is all about to detect Spam Mail using a dataset, Spam Mail Detecti
 # Importing Libraries used in this project
 
 Using pandas from sklearn Library
+
 Using TfidVectorizer from sklearn feature Extraction Library
+
 Using train_test_split from sklearn Library
+
 Using Logistic Regression from sklearn Library as a ML model in this project
+
 Using accuracy_score from sklearn.metrics Library
 
 # Data Used in this project is from kraggle.com
