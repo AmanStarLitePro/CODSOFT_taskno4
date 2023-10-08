@@ -23,6 +23,8 @@ Using accuracy_score from sklearn.metrics Library
 
 Loading Data from spam.csv in pandas DataFrame, Since Data is in not in the form of csv UTF-8 Format so we convert it into ISO-8859-1 format
 
+![image](https://github.com/AmanStarLitePro/Spam-Mail-Detection/assets/143260479/d35f27b0-b6db-4ed8-9b25-0185164ab864)
+
 # Step-2 : 
 
 We have to replace null values with null string as data have some null values
